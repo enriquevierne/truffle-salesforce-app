@@ -18,3 +18,4 @@ Soon we will update with all sales until today, if possible.
 | ROMELIA  | :dollar: |      |            |          |   3   |          |        |
 | ANGELA   | :dollar: |      |     3      |          |       |          |        |
 | NICE     |  :bank:  |  2   |            |          |   1   |          |        |
+| Total    |  R$108   |  10  |     4      |    5     |   9   |    2     | 2      |
