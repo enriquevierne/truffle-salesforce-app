@@ -9,7 +9,7 @@ Soon we will update with all sales until today, if possible.
 
 |          |   Paid   | Oreo | Brigadeiro | 2 Amores | Ninho | Beijinho | Paçoca |
 | -------- | :------: | :--: | :--------: | :------: | :---: | :------: | ------ |
-| LETICIA  |          |  1   |            |    2     |   1   |          |        |
+| LETICIA  |  :bank:  |  1   |            |    2     |   1   |          |        |
 | TAYRINE  |          |  1   |            |    2     |       |          |        |
 | MAURICIO |          |  1   |     1      |    1     |       |          |        |
 | RODRIGO  |  :bank:  |  3   |            |          |       |          |        |
